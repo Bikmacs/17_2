@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="colorRed">Красный</string>
+    <string name="colorBlue">Синий</string>
+</resources>
