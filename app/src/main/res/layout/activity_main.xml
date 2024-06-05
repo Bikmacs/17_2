@@ -7,7 +7,7 @@
     android:background="@color/red"
     android:clickable="true"
     android:onClick="onClick"
-    tools:context="com.colors.java.MainActivity">
+    tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"

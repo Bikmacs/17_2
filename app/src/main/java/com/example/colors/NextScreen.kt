@@ -4,12 +4,10 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.colors.java.MainActivity
 
 class NextScreen : AppCompatActivity() {
 
-    lateinit var count:MainActivity
-
+    lateinit var count: MainActivity
     lateinit var myIntent: Intent
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
